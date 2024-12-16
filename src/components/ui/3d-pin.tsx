@@ -84,7 +84,7 @@ export const PinPerspective = ({
         <div
           style={{
             perspective: "1000px",
-            transform: "rotateX(70deg) translateZ(0)",
+            transform: "rotateX(90deg) translateZ(0)",
           }}
           className="absolute left-1/2 top-1/2 ml-[0.09375rem] mt-4 -translate-x-1/2 -translate-y-1/2"
         >
